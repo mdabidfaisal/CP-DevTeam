@@ -123,3 +123,40 @@
 - **Portfolio/CV**: https://xeron56.github.io/
 - **Location**: Khulna, Bangladesh
 - **Remote Work**: Yes
+
+## Laravel Outsource Team
+
+### Khandker Shahed
+
+- Email: khandkershahed23@gmail.com
+- LinkedIn: https://www.linkedin.com/in/khandker-shahed-1a3716173/
+- GitHub: https://github.com/khandkershahed
+- Experience: 4+ years
+- Current Role: Lead Developer at [NGEN IT LTD.](https://www.ngenitltd.com/)
+- Skills: Laravel, MySQL, JavaScript, JQuery
+- Location: Dhaka, Bangladesh
+- Remote Work: Yes
+
+### Sazeduzzaman Saju
+
+- Email: szamansaju@gmail.com
+- LinkedIn: [linkedin.com/in/szamansaju/](https://www.linkedin.com/in/szamansaju/)
+- GitHub: [github.com/sazeduzzaman](https://github.com/sazeduzzaman)
+- Experience: 2.5+ years
+- Current Role: Frontend Developer at [NGen It LTD.](https://www.ngenitltd.com/)
+- Previous Role: Junior Frontend Developer at [uApps Pro](Remote)
+- Skills: React Js, Next Js, Bootstrap, Tailwind Css, 
+- Location: Dhaka, Bangladesh
+- Remote Work: Yes
+
+### Md.Nahidul Islam
+
+- Email: nahidxbd87@gmail.com
+- LinkedIn: [linkedin.com/in/nahiduiux](https://www.linkedin.com/in/nahiduiux)
+- Portfolio and CV: (nahidworks.com)
+- Experience: 3+ years
+- Current Role: Designer (UI/UX and Graphics) [NGen It LTD.](https://www.ngenitltd.com)
+- Previous Role: Graphics Designer at (XVECTOR)
+- Skills: Figma, Adobe Photoshop, Adobe Illustrator
+- Location: Dhaka, Bangladesh
+- Remote Work: Yes
