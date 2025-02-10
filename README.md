@@ -105,7 +105,7 @@
 ### SK Ahammad Fahad
 
 - **Email**: fahad.wasd@gmail.com
-- **LinkedIn**:linkedin.com/in/skfahad
+- **LinkedIn**:https://www.linkedin.com/in/skfahad
 - **GitHub**: 
 - **Experience**: 8+ years
 - **Current Role**: Chief Data Scientist at [Chaldal Limited](https://chaldal.com/)
