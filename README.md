@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Sadman Sobhan
 
 - **Email**: imran110219@gmail.com
@@ -162,5 +162,3 @@
 - Skills: Figma, Adobe Photoshop, Adobe Illustrator
 - Location: Dhaka, Bangladesh
 - Remote Work: Yes
-=======
->>>>>>> origin/master
