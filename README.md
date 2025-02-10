@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Sadman Sobhan
 
 - **Email**: imran110219@gmail.com
@@ -47,7 +48,7 @@
 
 ### Md Sanoarul Islam
 
-- **Email**: [[sanoarul123gmail.com]]
+- **Email**: sanoarul123gmail.com
 - **LinkedIn**: [linkedin.com/in/md-sanoarul-islam-523942207](https://www.linkedin.com/in/md-sanoarul-islam-523942207/)
 - **GitHub**: [github.com/sanoarul123](https://github.com/sanoarul123)
 - **Experience**: 1+ Year
@@ -105,7 +106,7 @@
 ### SK Ahammad Fahad
 
 - **Email**: fahad.wasd@gmail.com
-- **LinkedIn**:inkedin.com/in/skfahad
+- **LinkedIn**:https://www.linkedin.com/in/skfahad
 - **GitHub**: 
 - **Experience**: 8+ years
 - **Current Role**: Chief Data Scientist at [Chaldal Limited](https://chaldal.com/)
@@ -123,6 +124,7 @@
 - **Portfolio/CV**: https://xeron56.github.io/
 - **Location**: Khulna, Bangladesh
 - **Remote Work**: Yes
+<<<<<<< HEAD
 
 ## Laravel Outsource Team
 
@@ -160,3 +162,5 @@
 - Skills: Figma, Adobe Photoshop, Adobe Illustrator
 - Location: Dhaka, Bangladesh
 - Remote Work: Yes
+=======
+>>>>>>> origin/master
